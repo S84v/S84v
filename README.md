@@ -1,62 +1,73 @@
-<!-- Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1000&height=100&lines=Hello!+My+name+is+Sarang+%3A)" alt="Typing SVG" />
 
-<!-- Short Introduction -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sarang-dave/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-   <a href="https://www.kaggle.com/sarangdave1234">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white", alt = "Kaggle Badge"/>
-  </a>
-</p>
+# 💫 About Me:
+I am working on Data Science and Machine Learning projects.<br>Looking forward to collaborating for any ML project.<br>Ask me about Python or Machine Learning!
 
-<!-- About Me Section -->
-## About Me
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-- 👯 I’m looking to collaborate on **any ML project**
-- 💬 Ask me about **Python and Machine Learning**
-- 📥 Email me: [here](mailto:davesarang08@gmail.com)
 
-<!-- Skills Section -->
-## Skills
-- **Languages:** Python
-- **Libraries:**
-  - scikit-learn
-  - Pandas
-  - NumPy
-  - Plotly.js (for interactive data visualizations)
-    
-- **Tools:**
-  - Jupyter Notebook
-  - Visual Studio Code
-  - GitHub Desktop
-  - Microsoft Excel
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sarangdave1234)
 
-<!-- GitHub Stats Section -->
-## GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=S84v&show_icons=true&theme=transparent" alt="GitHub Stats" align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S84v&layout=donut&theme=transparent" alt="Top Languages" align="center"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=S84v&theme=transparent)" alt="WakaTime Stats" align="center"/>
-</p>
+# 💻 Tech Stack:
 
-<!-- Projects Section -->
-## Projects
-- [Customer Segmentation via Clustering](https://github.com/S84v/Customer-segmentation-clustering): This project demonstrates customer segmentation using various clustering techniques. We explore and preprocess the data, reduce dimensionality, apply clustering algorithms, and interpret the results to gain insights about customer behavior.
-- Check out my other repositories [here](https://github.com/S84v?tab=repositories).
+### Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-<!-- Connect with Me Section -->
+### Libraries
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+<br>
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+
+
+### Other Technologies
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)    
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=S84v&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=S84v&theme=vue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=S84v&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=S84v&theme=vue&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=S84v&limit=5&theme=vue&combine_all_yearly_contributions=true)
+
+<!-- Dev Meme -->
+
+### Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+<!-- Socials -->
+
 ## Connect with Me
-<p align="center">
-  <a href="https://github.com/S84v">
-    <img src="https://img.shields.io/badge/GitHub-S84v-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sarang-dave/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:davesarang08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S84v) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sarangdave1234)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davesarang08@gmail.com)
 
+<!-- Profile view counter -->
+
+[![](https://visitcount.itsvg.in/api?id=S84v&icon=1&color=8)](https://visitcount.itsvg.in) 
