@@ -1,11 +1,10 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1000&height=100&lines=Hello!+My+name+is+Sarang+%3A)" alt="Typing SVG" />
-
-# 💫 About Me:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1050&height=100&lines=Hello!+My+name+is+Sarang+%3A%29)
+# 📝 About Me:
 I am working on Data Science and Machine Learning projects.<br>Looking forward to collaborating for any ML project.<br>Ask me about Python or Machine Learning!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sarangdave1234)
 
 # 💻 Tech Stack:
@@ -18,8 +17,6 @@ I am working on Data Science and Machine Learning projects.<br>Looking forward t
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-<br>
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -64,7 +61,7 @@ I am working on Data Science and Machine Learning projects.<br>Looking forward t
 
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S84v) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sarangdave1234)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davesarang08@gmail.com)
 
