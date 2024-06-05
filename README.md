@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1050&height=100&lines=Hello!+My+name+is+Sarang+%3A%29)
 # 📝 About Me:
-I am working on Data Science and Machine Learning projects.
-Looking forward to collaborating for any ML project.
-Ask me about Python or Machine Learning!
+I am working on Data Science and Machine Learning projects. <br/>
+Looking forward to collaborating for any ML project.<br/>
+Ask me about Python or Machine Learning!<br/>
 
 
 ## 🌐 Socials:
