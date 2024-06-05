@@ -47,13 +47,13 @@ Ask me about Python or Machine Learning!<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=S84v&theme=vue&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=S84v&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
-<!-- Dev Meme -->
+<!-- Dev Quote and  Meme -->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
