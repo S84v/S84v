@@ -1,70 +1,62 @@
-## Hi there 👋
-
-<!--
-**S84v/S84v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- Header -->
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=1000&height=100&lines=Hello!+My+name+is+Sarang+%3A)" alt="Typing SVG" />
 
 <!-- Short Introduction -->
 <p align="center">
-  <a href="https://github.com/[your-username]">
-    <img src="https://img.shields.io/badge/GitHub-[your-username]-181717?style=flat&logo=github" alt="GitHub Badge"/>
+  <a href="https://www.kaggle.com/sarangdave1234">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white", alt = "Kaggle Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/[your-linkedin-username]/">
-    <img src="https://img.shields.io/badge/LinkedIn-[your-username]-0077B5?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/sarang-dave/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 </p>
 
 <!-- About Me Section -->
 ## About Me
-- 🔭 I’m currently working on **[Your Project/Company Name]**
-- 🌱 I’m currently learning **[Your Learning Focus]**
-- 👯 I’m looking to collaborate on **[Your Collaboration Interests]**
-- 💬 Ask me about **[Your Expertise/Interests]**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 👯 I’m looking to collaborate on **any ML project**
+- 💬 Ask me about **Python and Machine Learning**
+- 📥 Email me: [here](mailto:davesarang08@gmail.com)
 
 <!-- Skills Section -->
 ## Skills
-- **Languages:** [Your Programming Languages]
-- **Frameworks/Libraries:** [Your Frameworks and Libraries]
-- **Tools:** [Your Tools and Technologies]
+- **Languages:** Python
+- **Libraries:**
+  - scikit-learn
+  - Pandas
+  - NumPy
+  - Plotly.js (for interactive data visualizations)
+    
+- **Tools:**
+  - Jupyter Notebook
+  - Visual Studio Code
+  - GitHub Desktop
+  - Microsoft Excel
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical" alt="Top Languages"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=S84v&show_icons=true&theme=transparent" alt="GitHub Stats" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S84v&layout=donut&theme=transparent" alt="Top Languages" align="center"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=S84v&theme=transparent)" alt="WakaTime Stats" align="center"/>
 </p>
 
 <!-- Projects Section -->
 ## Projects
-- [Project Name](https://github.com/[your-username]/[project-repo]): Brief description of your project.
-- [Project Name](https://github.com/[your-username]/[project-repo]): Brief description of your project.
+- [Customer Segmentation via Clustering](https://github.com/S84v/Customer-segmentation-clustering): This project demonstrates customer segmentation using various clustering techniques. We explore and preprocess the data, reduce dimensionality, apply clustering algorithms, and interpret the results to gain insights about customer behavior.
+- Check out my other repositories [here](https://github.com/S84v?tab=repositories).
 
 <!-- Connect with Me Section -->
 ## Connect with Me
 <p align="center">
-  <a href="https://github.com/[your-username]">
-    <img src="https://img.shields.io/badge/GitHub-[your-username]-181717?style=flat&logo=github" alt="GitHub Badge"/>
+  <a href="https://github.com/S84v">
+    <img src="https://img.shields.io/badge/GitHub-S84v-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/[your-linkedin-username]/">
-    <img src="https://img.shields.io/badge/LinkedIn-[your-username]-0077B5?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/sarang-dave/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-your.email@example.com-EA4335?style=flat&logo=gmail" alt="Email Badge"/>
+  <a href="mailto:davesarang08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
 
