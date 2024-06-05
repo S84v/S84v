@@ -50,6 +50,9 @@ Ask me about Python or Machine Learning!<br/>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=S84v&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
+# Coding Stats
+![S84v's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=S84V)
+
 <!-- Dev Quote and  Meme -->
 
 ### ✍️ Random Dev Quote
