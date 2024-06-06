@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=45&duration=4000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=900&height=100&lines=Hello!+My+name+is+Sarang+%3A%29;Welcome+to+my+GitHub+profile!)
 
 # 📝 About Me:
-I am working on Data Science and Machine Learning projects. <br/>
+I am a Data Science and Machine Learning enthusiast. <br/>
 Looking forward to collaborating for any ML project.<br/>
 Ask me about Python or Machine Learning!<br/>
 
@@ -51,7 +51,7 @@ Ask me about Python or Machine Learning!<br/>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=S84v&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
-# Coding Stats
+# 🧑‍💻 Coding Stats
 ![S84v's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=S84v&theme=vue&v=2)
 
 <!-- Dev Quote and  Meme -->
@@ -65,7 +65,7 @@ Ask me about Python or Machine Learning!<br/>
 --->
 <!-- Socials -->
 
-## Connect with Me
+## 🤝 Connect with Me
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S84v) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sarangdave1234)
