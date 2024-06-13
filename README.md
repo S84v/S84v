@@ -3,15 +3,15 @@
 # 📝 About Me:
 I have 2 years of consulting experience with a focus on managing priorities to meet deadlines and deliver high-quality solutions. I am committed to building credibility and developing positive relationships with stakeholders, managers, and clients. Looking to transition into a data science/analyst role.
 
-### Professional Summary
+## Professional Summary
 - 🔧 Skilled in handling large, complex databases and maintaining production-grade code.
 - 🧠 Analytical mindset for identifying problems and implementing solutions.
 - 🤝 Experienced in collaborating with cross-functional teams to deliver high-quality solutions on time.
 - 💬 Strong communication skills for client interaction and issue resolution.
 - 📈 Dedicated to maintaining a high quality of solutions and ensuring client satisfaction.
 
-### Skill Set
-**Technical Skills**
+## Skill Set
+### Technical Skills
 
 | Programming         |                |
 |---------------------|----------------|
@@ -54,7 +54,7 @@ I have 2 years of consulting experience with a focus on managing priorities to m
 
 <br />
 
-**Soft Skills**
+### Soft Skills
 
 | Non-tech skills       	|                       	|
 |-----------------------	|-----------------------	|
@@ -65,16 +65,16 @@ I have 2 years of consulting experience with a focus on managing priorities to m
 | 🎨 Creativity          	| 👥 Teamwork            	|
 
 
-### Education
+## Education
 - 🎓 Bachelor of Engineering in Computer Engineering, Mumbai University, 2021
 
-### Certifications
+## Certifications
 - [Data Science Foundations: Fundamentals](https://www.linkedin.com/learning/certificates/916394cce59fe7e7c460b81356be49b52cf2ce4feb5d06569f8d7435a4451780?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BwOGlpAVJTuePc0jJm%2BObkw%3D%3D)
 - [Intermediate SQL for Data Scientists](https://www.linkedin.com/learning/certificates/e7f2019c64c28ccb9e3f26f43908698ee0ab212b52dcd72a4463d2e85048b693?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BwOGlpAVJTuePc0jJm%2BObkw%3D%3D)
 - [GitHub for Data Scientists](https://www.linkedin.com/learning/certificates/408f7a2d98213f1b136fab12a0f7a8135302a3d49aadb3a89bd3cae1a08ba864)
 - [Introduction to Tableau](https://www.linkedin.com/learning/certificates/7b7a0ef265cabf49f73be3992711f1c66afa05aa017284288c7a98e30aa957c6)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sarangdave1234)
 
@@ -118,7 +118,7 @@ I have 2 years of consulting experience with a focus on managing priorities to m
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=S84v&theme=vue&no-frame=false&no-bg=false&margin-w=4&t)
 -->
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=S84v&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
 # 🧑‍💻 Coding Stats
@@ -126,7 +126,7 @@ I have 2 years of consulting experience with a focus on managing priorities to m
 
 <!-- Dev Quote and  Meme -->
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!---
@@ -135,7 +135,7 @@ I have 2 years of consulting experience with a focus on managing priorities to m
 --->
 <!-- Socials -->
 
-## 🤝 Connect with Me
+# 🤝 Connect with Me
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S84v) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sarangdave1234)
