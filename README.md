@@ -1,10 +1,75 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=45&duration=4000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=900&height=100&lines=Hello!+My+name+is+Sarang+%3A%29;Welcome+to+my+GitHub+profile!)
 
 # 📝 About Me:
-I am a Data Science and Machine Learning enthusiast. <br/>
-Looking forward to collaborating for any ML project.<br/>
-Ask me about Python or Machine Learning!<br/>
+I have 2 years of consulting experience with a focus on managing priorities to meet deadlines and deliver high-quality solutions. I am committed to building credibility and developing positive relationships with stakeholders, managers, and clients. Looking to transition into a data science/analyst role.
 
+### Professional Summary
+- 🔧 Skilled in handling large, complex databases and maintaining production-grade code.
+- 🧠 Analytical mindset for identifying problems and implementing solutions.
+- 🤝 Experienced in collaborating with cross-functional teams to deliver high-quality solutions on time.
+- 💬 Strong communication skills for client interaction and issue resolution.
+- 📈 Dedicated to maintaining a high quality of solutions and ensuring client satisfaction.
+
+### Skill Set
+**Technical Skills**
+| Supervised Machine Learning              |                                     |
+|------------------------------------------|-------------------------------------|
+| 1. XGBoost                               | 9. K Nearest Neighbors (KNN)        |
+| 2. LightGBM                              | 10. Logistic Regression             |
+| 3. Gradient Boosted Decision Trees (GBDT)| 11. Linear Regression               |
+| 4. Boosting                              | 12. Lasso Regression                |
+| 5. Bagging                               | 13. Ridge Regression                |
+| 6. Random Forest                         | 14. ElasticNet Regression           |
+| 7. AdaBoost                              | 15. Decision Trees                  |
+| 8. Support Vector Machines (SVM)         |                                     |
+
+<br />
+
+| Unsupervised Machine Learning                                           |
+|-------------------------------------------------------------------------|
+| KMeans Clustering                                                       |
+| Agglomerative Hierarchical Clustering                                   |
+| Density-Based Spatial Clustering of Applications with Noise (DBSCAN)    |
+| Principal Component Analysis (PCA)                                      |
+
+<br />
+
+| Data Visualization  |
+|---------------------|
+| Plotly.js        |
+| seaborn          |
+| matplotlib       |
+| Tableau          |
+
+<br />
+
+| Programming         |                |
+|---------------------|----------------|
+| Python           | NumPy        |
+| Scikit-learn     | SQL          |
+| Pandas           | Optuna       |
+
+<br />
+
+**Soft Skills**
+
+| Non-tech skills       	|                       	|
+|-----------------------	|-----------------------	|
+| 💬 Communication       	| 🎯 Problem-Solving     	|
+| 🔄 Adaptability        	| 📈 Business Acumen     	|
+| ⏰ Time Management     	| 🛡️ Data Ethics         	|
+| 🧐 Analytical thinking 	| 🔍 Attention to detail 	|
+| 🎨 Creativity          	| 👥 Teamwork            	|
+
+
+### Education
+- 🎓 Bachelor of Engineering in Computer Engineering, Mumbai University, 2021
+
+### Certifications
+- [Data Science Foundations: Fundamentals](https://www.linkedin.com/learning/certificates/916394cce59fe7e7c460b81356be49b52cf2ce4feb5d06569f8d7435a4451780?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BwOGlpAVJTuePc0jJm%2BObkw%3D%3D)
+- [Intermediate SQL for Data Scientists](https://www.linkedin.com/learning/certificates/e7f2019c64c28ccb9e3f26f43908698ee0ab212b52dcd72a4463d2e85048b693?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BwOGlpAVJTuePc0jJm%2BObkw%3D%3D)
+- [GitHub for Data Scientists](https://www.linkedin.com/learning/certificates/408f7a2d98213f1b136fab12a0f7a8135302a3d49aadb3a89bd3cae1a08ba864)
+- [Introduction to Tableau](https://www.linkedin.com/learning/certificates/7b7a0ef265cabf49f73be3992711f1c66afa05aa017284288c7a98e30aa957c6)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave) 
