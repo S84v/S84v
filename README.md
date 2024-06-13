@@ -12,6 +12,16 @@ I have 2 years of consulting experience with a focus on managing priorities to m
 
 ### Skill Set
 **Technical Skills**
+
+| Programming         |                |
+|---------------------|----------------|
+| Python           | NumPy        |
+| scikit-learn     | SQL          |
+| Pandas           | Optuna       |
+|Exploratory Data Analysis| Feature Engineering |
+
+<br />
+
 | Supervised Machine Learning              |                                     |
 |------------------------------------------|-------------------------------------|
 | 1. XGBoost                               | 9. K Nearest Neighbors (KNN)        |
@@ -41,13 +51,6 @@ I have 2 years of consulting experience with a focus on managing priorities to m
 | matplotlib       |
 | Tableau          |
 
-<br />
-
-| Programming         |                |
-|---------------------|----------------|
-| Python           | NumPy        |
-| Scikit-learn     | SQL          |
-| Pandas           | Optuna       |
 
 <br />
 
