@@ -1,7 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=45&duration=4000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=900&height=100&lines=Hello!+My+name+is+Sarang+%3A%29;Welcome+to+my+GitHub+profile!)
 
-# 📝 About Me:
+# 📝 About Me
 I have 2 years of consulting experience with a focus on managing priorities to meet deadlines and deliver high-quality solutions. I am committed to building credibility and developing positive relationships with stakeholders, managers, and clients. Looking to transition into a data science/analyst role.
+
+Check out my resume [here]().
 
 ## Professional Summary
 - 🔧 Skilled in handling large, complex databases and maintaining production-grade code.
@@ -51,9 +53,6 @@ I have 2 years of consulting experience with a focus on managing priorities to m
 | matplotlib       |
 | Tableau          |
 
-
-<br />
-
 ### Soft Skills
 
 | Non-tech skills       	|                       	|
@@ -64,9 +63,8 @@ I have 2 years of consulting experience with a focus on managing priorities to m
 | 🧐 Analytical thinking 	| 🔍 Attention to detail 	|
 | 🎨 Creativity          	| 👥 Teamwork            	|
 
-
 ## Education
-- 🎓 Bachelor of Engineering in Computer Engineering, Mumbai University, 2021
+🎓 *Bachelor of Engineering in Computer Engineering, Mumbai University, 2021*
 
 ## Certifications
 - [Data Science Foundations: Fundamentals](https://www.linkedin.com/learning/certificates/916394cce59fe7e7c460b81356be49b52cf2ce4feb5d06569f8d7435a4451780?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BwOGlpAVJTuePc0jJm%2BObkw%3D%3D)
@@ -76,13 +74,17 @@ I have 2 years of consulting experience with a focus on managing priorities to m
 
 <br />
 
+---
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sarangdave1234)
 
+---
+
 # 💻 Tech Stack:
 
-## Languages:
+## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ## Libraries
@@ -110,6 +112,8 @@ I have 2 years of consulting experience with a focus on managing priorities to m
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=S84v&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -128,7 +132,7 @@ I have 2 years of consulting experience with a focus on managing priorities to m
 
 <!-- Dev Quote and  Meme -->
 
-# ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!---
