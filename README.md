@@ -41,13 +41,15 @@ Ask me about Python or Machine Learning!<br/>
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 # 📊 GitHub Stats:
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=S84v&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=S84v&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S84v&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=S84v&theme=vue&no-frame=false&no-bg=false&margin-w=4&t)
-
+-->
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=S84v&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
