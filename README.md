@@ -2,9 +2,9 @@
 
 # 📝 About Me
 I have 2 years of consulting experience with a focus on managing priorities to meet deadlines and deliver high-quality solutions. I am committed to building credibility and developing positive relationships with stakeholders, managers, and clients. Looking to transition into a data science/analyst role.
-
+<!---
 Check out my resume [here]().
-
+--->
 ## Professional Summary
 - 🔧 Skilled in handling large, complex databases and maintaining production-grade code.
 - 🧠 Analytical mindset for identifying problems and implementing solutions.
