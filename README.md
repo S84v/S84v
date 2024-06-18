@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=45&duration=4000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=900&height=100&lines=Hello!+My+name+is+Sarang+%3A%29;Welcome+to+my+GitHub+profile!)
 
 # 📝 About Me
-_Adept in Python and machine learning, with a knack for analytical thinking and problem-solving. Excelled in delivering high-quality solutions across diverse global markets, ensuring client satisfaction. Skilled in data visualization and optimization techniques, consistently fostering team collaboration and professional growth._
+_Adept in Python and Machine Learning, with a knack for analytical thinking and problem-solving. Excelling in delivering high-quality solutions across diverse global markets, ensuring client satisfaction. Skilled in machine learning and data science, consistently fostering team collaboration and professional growth._
 <!---
 Check out my resume [here]().
 --->
