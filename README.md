@@ -1,18 +1,18 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=45&duration=4000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=900&height=100&lines=Hello!+My+name+is+Sarang+%3A%29;Welcome+to+my+GitHub+profile!)
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=45&duration=4000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=900&height=100&lines=Hello!+My+name+is+Sarang+%3A%29;Welcome+to+my+GitHub+profile!) -->
 
-# 📝 About Me
-_Adept in Python and Machine Learning, with a knack for analytical thinking and problem-solving. Excelling in delivering high-quality solutions across diverse global markets, ensuring client satisfaction. Skilled in machine learning and data science, consistently fostering team collaboration and professional growth._
+<!-- # 📝 About Me -->
+<!-- _Adept in Python and Machine Learning, with a knack for analytical thinking and problem-solving. Excelling in delivering high-quality solutions across diverse global markets, ensuring client satisfaction. Skilled in machine learning and data science, consistently fostering team collaboration and professional growth._ -->
 <!---
 Check out my resume [here]().
 --->
-## Professional Summary
+<!-- ## Professional Summary
 - 🔧 Skilled in handling large, complex databases and maintaining production-grade code.
 - 🧠 Analytical mindset for identifying problems and implementing solutions.
 - 🤝 Experienced in collaborating with cross-functional teams to deliver high-quality solutions on time.
 - 💬 Strong communication skills for client interaction and issue resolution.
-- 📈 Dedicated to maintaining a high quality of solutions and ensuring client satisfaction.
+- 📈 Dedicated to maintaining a high quality of solutions and ensuring client satisfaction. -->
 
-## Skill Set
+<!-- ## Skill Set
 ### Technical Skills
 
 | Programming         |                |
@@ -22,8 +22,8 @@ Check out my resume [here]().
 | Pandas           | Optuna       |
 |Exploratory Data Analysis| Feature Engineering |
 
-<br />
-
+<br /> -->
+<!-- 
 | Supervised Machine Learning              |                                     |
 |------------------------------------------|-------------------------------------|
 | 1. XGBoost                               | 9. K Nearest Neighbors (KNN)        |
@@ -72,17 +72,17 @@ Check out my resume [here]().
 - [GitHub for Data Scientists](https://www.linkedin.com/learning/certificates/408f7a2d98213f1b136fab12a0f7a8135302a3d49aadb3a89bd3cae1a08ba864)
 - [Introduction to Tableau](https://www.linkedin.com/learning/certificates/7b7a0ef265cabf49f73be3992711f1c66afa05aa017284288c7a98e30aa957c6)
 
-<br />
+<br /> -->
 
----
+<!-- ---
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sarangdave1234)
 
----
+--- -->
 
-# 💻 Tech Stack:
+<!-- # 💻 Tech Stack:
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -98,15 +98,15 @@ Check out my resume [here]().
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
---->
+- -->
 
-| ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white) 	| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white) 	|
-|-----------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------	|
-| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white)                       	| ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&amp;logo=plotly&amp;logoColor=white) 	|
-| ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&amp;logo=Matplotlib&amp;logoColor=black)        	|                                                                                                                      	|
+<!-- | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white) 	| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white) 	| -->
+<!-- |-----------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------	| -->
+<!-- | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white)                       	| ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&amp;logo=plotly&amp;logoColor=white) 	| -->
+<!-- | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&amp;logo=Matplotlib&amp;logoColor=black)        	|                                                                                                                      	| -->
 
 
-## Other Technologies
+<!-- ## Other Technologies -->
 <!---
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -120,35 +120,35 @@ Check out my resume [here]().
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 --->
-| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white) 	| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white)             	|
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white)                          	| ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white)                           	|
-| [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white)](https://www.kaggle.com/sarangdave1234)    	| ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&amp;logo=notepad%2b%2b&amp;logoColor=black)                       	|
-| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white)                                      	| ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white)                                     	|
-| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white)                                               	| ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&amp;logo=windows-terminal&amp;logoColor=white) 	|
+<!-- | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white) 	| ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white)             	| -->
+<!-- |-----------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------	| -->
+<!-- | ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white)                          	| ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white)                           	| -->
+<!-- | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white)](https://www.kaggle.com/sarangdave1234)    	| ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&amp;logo=notepad%2b%2b&amp;logoColor=black)                       	| -->
+<!-- | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white)                                      	| ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white)                                     	| -->
+<!-- | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white)                                               	| ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&amp;logo=windows-terminal&amp;logoColor=white) 	| -->
 
----
+<!-- --- -->
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats: -->
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=S84v&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=S84v&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=S84v&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=S84v&theme=vue&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S84v&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=S84v&theme=vue&no-frame=false&no-bg=false&margin-w=4&t)
--->
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=S84v&limit=5&theme=vue&combine_all_yearly_contributions=true)
+ -->
+<!-- # 🔝 Top Contributed Repo -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=S84v&limit=5&theme=vue&combine_all_yearly_contributions=true) -->
 
-# 🧑‍💻 Coding Stats
-![S84v's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=S84v&theme=vue&v=2)
+<!-- # 🧑‍💻 Coding Stats -->
+<!-- ![S84v's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=S84v&theme=vue&v=2) -->
 
 <!-- Dev Quote and  Meme -->
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ## ✍️ Random Dev Quote -->
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 <!---
 ### Random Dev Meme
@@ -156,14 +156,14 @@ Check out my resume [here]().
 --->
 <!-- Socials -->
 
-# 🤝 Connect with Me
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S84v) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sarangdave1234)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davesarang08@gmail.com)
+<!-- # 🤝 Connect with Me -->
+<!-- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S84v)  -->
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-dave)  -->
+<!-- [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sarangdave1234) -->
+<!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davesarang08@gmail.com) -->
 
 <!-- Profile view counter -->
 
-![](https://visitcount.itsvg.in/api?id=S84v&icon=1&color=8)
+<!-- ![](https://visitcount.itsvg.in/api?id=S84v&icon=1&color=8) -->
 
----
+<!-- --- -->
